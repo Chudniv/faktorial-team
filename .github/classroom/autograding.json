@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "factorial 1",
+      "setup": "",
+      "run": "g++ -std=c++11 main.cpp",
+      "input": "1",
+      "output": "1",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "factorial 2",
+      "setup": "",
+      "run": "g++ -std=c++11 main.cpp",
+      "input": "2",
+      "output": "2",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
