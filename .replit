@@ -1,0 +1,1 @@
+run = "g++ -std=c++11 hello.cpp"
